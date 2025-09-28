@@ -1,1 +1,2 @@
-can only convert text input to qr code
+#QR Code generator
+Converts text into a QR code
