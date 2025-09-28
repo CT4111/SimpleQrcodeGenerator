@@ -1,2 +1,2 @@
-#QR Code generator
+QR Code generator
 Converts text into a QR code
